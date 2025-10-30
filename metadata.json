@@ -1,0 +1,5 @@
+{
+  "name": "Proportional Image Resizer",
+  "description": "An application to upload a 16:9 image, resize it proportionally to be larger than 2880x2304 pixels, and ensure the final file size is under 5MB.",
+  "requestFramePermissions": []
+}
